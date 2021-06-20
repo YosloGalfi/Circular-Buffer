@@ -1,0 +1,4 @@
+﻿  Assignment.cpp
+F:\C++\Konstruktionavspelteknikverktyg\Assignment\Assignment\Assignment.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\C++\Konstruktionavspelteknikverktyg\Assignment\Assignment\Assignment.cpp(60,50): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+  Assignment.vcxproj -> F:\C++\Konstruktionavspelteknikverktyg\Assignment\x64\Debug\Assignment.exe
